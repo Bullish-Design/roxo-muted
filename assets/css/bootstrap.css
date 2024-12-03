@@ -9954,4 +9954,15 @@ a.text-dark:hover {
     }
 }
 
+.business-name {
+  font-weight: bold;
+  color: black;
+  font-size: 2.75rem; /* Adjust size as needed */
+  margin-left: 10px; /* Space between logo and text */
+  display: inline-flex;
+  align-items: center ;
+  vertical-align: middle;
+}
+
+
 /*# sourceMappingURL=bootstrap.min.css.map */
