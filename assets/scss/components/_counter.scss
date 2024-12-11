@@ -1,5 +1,5 @@
 .site-counter{
-  padding: 35px 0;
+  padding: 85px 0;
   color: $white;
   background: $secondary-color;
   text-align: center;
@@ -15,7 +15,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 20px;
+    padding: 10px;
 
     @include desktop{
       margin-bottom: 30px;
